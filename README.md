@@ -1,6 +1,12 @@
 # getx_counter_app
 
-A new Flutter project.
+Flutter Counter App using State Management GetX.
+
+## Screenshots
+
+|Counter Screeen|
+|---------------|
+|![image](images/op.png)|
 
 ## Getting Started
 
