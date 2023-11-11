@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: MyHomePage(title: "GetX CounterApp",),
+      home: MyHomePage(title: "GetX CounterApp Demo",),
 
       /// initialBinding: TextFieldBinding(),
       debugShowCheckedModeBanner: false,
